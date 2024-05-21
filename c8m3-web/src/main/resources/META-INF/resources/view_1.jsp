@@ -8,4 +8,4 @@
 	<portlet:param name="mvcPath" value="/view_2.jsp" />
 </portlet:renderURL>
 
-<a href="<%= view2URL %>">Go to View 2 ecl</a>
+<a href="<%= view2URL %>">Go to View 2</a>
